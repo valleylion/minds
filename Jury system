@@ -1,0 +1,28 @@
+I believe you have the jury system back to front. How it should work:
+A user uploads some content that is on or over the NSFW line
+Staff flag it for a jury assessment without the content provider being informed
+Should the jury return an "all clear" response, then the nothing is done and the content is left unchanged
+Should the jury return an "NSFW" response, then the content provider is notified that the content has been flagged for review
+and they can request a review of the outcome and submit mitigating reasons for the outcome to be overturned.
+The mitigating reasons along with the content is sent out to another jury for review.
+Should the jury return an "all clear" response, then the nothing is done and the content is left unchanged
+Should the jury return an "NSFW" response, then the content provider is notified that the content has been marked NSFW
+
+This process can be used to ensure content is appropriate for kids:
+A user uploads some content that is marked "Safe for kids"
+Staff flag it for a jury assessment without the content provider being informed
+Should the jury return an "all clear" response, then the nothing is done and the content is left unchanged
+Should the jury return an "PG13" response, then the content provider is notified that the content has been flagged for review
+and they can request a review of the outcome and submit mitigating reasons for the outcome to be overturned.
+The mitigating reasons along with the content is sent out to another jury for review.
+Should the jury return an "all clear" response, then the nothing is done and the content is left unchanged
+Should the jury return an "PG13" response, then the content provider is notified that the content has been marked PG13
+
+This ensures your staff only highlight content for the first review and the community takes control of the entire process 
+from that point.
+You could even outsource the first step to users across the globe to highlight content and they could earn tokens for this work.
+They will be rated on the accuracy of their flagging trends. Should they have a high percentage of highlighted content that
+receives an "All Clear" from the first jury, they will be dropped from this function or receive a low number of tokens.
+The higher percentage of either NSFW or PG13 outcomes from the second jury pays more tokens.
+
+This would increase cashflow and dilute control even further.
